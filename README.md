@@ -26,6 +26,7 @@ Submit a pull request
 For major changes, please open an issue first to discuss what you would like to change.
 
 ⚖️ License
+
 This project is provided under the MIT License.
 You are free to use, modify, and share the materials with proper attribution.
 
