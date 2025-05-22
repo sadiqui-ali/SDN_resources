@@ -1,5 +1,5 @@
 # SDN_resources
-📚 Resources for the Labs of the Book "SDN Technology"
+📚 Resources for the Labs of the Book "SDN Network Fundamentals: Towards Intelligent and Flexible Networks"
 All the resources required to complete the Labs described in the book are available at the following link:
 
 🔗 https://rebrand.ly/sdn-tools
